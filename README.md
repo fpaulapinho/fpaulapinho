@@ -1,7 +1,8 @@
-### Olá!! Eu sou Paula Pinho
+### Hello World!!
 📖 Estudante de Análise e Desenvolvimento de Sistemas-IFMS
 #
-🌱 Estudando Java-Udemy
+🌱 Java-Udemy
+🌱 JavaScript-Udemy
 #
 📫 How to reach me: paulinhapinhosg@hotmail.com
 #
