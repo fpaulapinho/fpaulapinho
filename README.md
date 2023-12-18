@@ -6,7 +6,7 @@
 #
 📫 How to reach me: paulinhapinhosg@hotmail.com
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpaulapinho&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 <div style="display: inline_block"><br>
