@@ -5,7 +5,6 @@
 🌱 JavaScript-Udemy
 #
 📫 How to reach me: paulinhapinhosg@hotmail.com
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpaulapinho&theme=onedark_icons=true)
 
 
 <div style="display: inline_block"><br>
